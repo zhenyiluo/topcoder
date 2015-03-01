@@ -1,4 +1,4 @@
-package com.topcoder.div2.srm651;
+package div2.srm651;
 
 public class KitayutaMart2 {
 

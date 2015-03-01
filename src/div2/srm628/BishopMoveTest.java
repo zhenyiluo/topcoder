@@ -1,4 +1,4 @@
-package com.topcoder.div2.srm628;
+package div2.srm628;
 
 import static org.junit.Assert.assertEquals;
 
