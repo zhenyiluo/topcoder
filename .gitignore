@@ -7,3 +7,9 @@
 *.prefs
 *.classpath
 *.project
+
+# Intellij generated #
+#####################
+*.xml
+*.iml
+.idea
