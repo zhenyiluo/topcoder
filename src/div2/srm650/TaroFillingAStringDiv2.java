@@ -1,5 +1,5 @@
 package div2.srm650;
-
+//Version2
 public class TaroFillingAStringDiv2{
 	public int getNumber(String S){
 		int result = 0;
